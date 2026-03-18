@@ -9,7 +9,7 @@
 #### 💻Featured Projects
 - [Eko-Tote](https://romivaneirity.github.io/EcoTote-Group18/) – Light aversome site - handbag sales landing page (frontend only). First student team project (team role - team lead). HTML/CSS, Flexbox, adaptive.
 - [Booksy](https://romivaneirity.github.io/Booksy-Group11/) – The site is dedicated to books. Second student team project (team role - team lead). HTML/CSS & JavaScript, adaptive, API, bundler Vite, libraries.
-- [Travellers](https://project-travelers8-front.vercel.app/) - Student team project - final of the Fullstack course. Site for travel blogs. Frontend (React) + Backend (Node.js). Mobile-first approach, adaptive, АPI, MongoDB.
+- [Travellers](https://project-travelers8-front.vercel.app/) - Student team project - final of the Fullstack course. Site for travel blogs. Frontend (React, Next.js) + Backend (Node.js, Express). Mobile-first approach, adaptive, АPI, MongoDB.
 - [Notarius](https://kotljarova.ho.ua/) - Multi-page website of a private notary. Individual project, was started in 2011. Clear HTML/CSS & JavaScript, Flexbox, CEO.
 - [Visit my portfolio](https://romivaneirity.github.io/portfolio/)
 
